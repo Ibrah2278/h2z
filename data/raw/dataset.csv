@@ -1,0 +1,302 @@
+categorie,zarma,haoussa,francais
+salutations,Fofo,Sannu,Bonjour
+salutations,Fonda kayan,Sannu da zuwa,Bienvenue
+salutations,Mateno nigo?,Yaya kake?,Comment vas-tu ? (A un homme)
+salutations,Mateno nigo?,Yaya kike?,Comment vas-tu ? (A une femme)
+salutations,Banisamey wallah,Lafiya lawe,Je vais bien
+salutations,Aysabou,Nagode,Merci
+salutations,oh,Ee,Oui
+salutations,A'a,A'a,Non
+salutations,Alhanan,Hakuri,Pardon / Excuse-moi
+salutations,Kalatonton,Sai an jima,Au revoir
+salutations,Kalsoubah,Sai gobe,A demain
+salutations,cino ma bori,Mou kon lafiya,Bonne nuit
+salutations,Mateno nimayo,Sunanka/Sunanki?,Comment t'appelles-tu ?
+salutations,Aymayo�,Sunana...,Je m'appelle...
+salutations,Mangano nifounou,Ina gidan ku?,D'ouviens-tu ?
+salutations,Niamey no ay founou,Na fito Niamey,Je viens de Niamey
+salutations,Banisamey wallah alhamdoulilah,Lafiya lau,je vais bien (avec la grace de Dieu)
+famille,Baaba,Uba,Pere
+famille,Maama,Uwa,Mere
+famille,Bereh,Yaya/wa (namiji),Frere
+famille,Bereh,Yaya / ya(mace),Seur
+famille,keyneh,Kanousa,Frere/soeur cadet(te)
+famille,Izo / Izey,Diya,Enfant / Fils / Fille
+famille,Ize arwaso,Da namiji,Fils
+famille,Ize wandiya,Diya mace,Fille
+famille,ay kayi,Kakana (namiji),Grand-pere
+famille,ay kayi,Kakata (mace),Grand-mere
+famille,kurgneh,Miji,Mari
+famille,wande,Matar aure,epouse
+famille,Famiyo ,Dangi,Famille
+famille,Tchoro,Aboki,Ami / Proche
+nombres,Afo,Daya,Un (1)
+nombres,Ihinka,Biyu,Deux (2)
+nombres,Ihinza,Uku,Trois (3)
+nombres,Itaci,Hudu,Quatre (4)
+nombres,Igu,Biyar,Cinq (5)
+nombres,Iddu,Shida,Six (6)
+nombres,Iyye,Bakwai,Sept (7)
+nombres,Ihakku,Takwas,Huit (8)
+nombres,iyaga,Tara,Neuf (9)
+nombres,Iway,Goma,Dix (10)
+nombres,Iway tchindi fo,Goma sha daya,Onze (11)
+nombres,Iway tchindi hinka,Goma sha biyu,Douze (12)
+nombres,Iway tchindi hinza,Goma sha uku,Treize (13)
+nombres,Iway tchindi itaci,Goma sha hudu,Quatorze (14)
+nombres,Iway tchindi igu,Goma sha biyar,Quinze (15)
+nombres,Iway tchindi iddu,Goma sha shida,Seize (16)
+nombres,Iway tchindi iyye,Goma sha bakwai,Dix-sept (17)
+nombres,Iway tchindi ihakku,Goma sha takwas,Dix-huit (18)
+nombres,Iway tchindi yega,Goma sha tara,Dix-neuf (19)
+nombres,Waranka,Ashirin,Vingt (20)
+nombres,Waranza,Talatin,Trente (30)
+nombres,Waytachi,Arba'in,Quarante (40)
+nombres,Waygou,Hamsin,Cinquante (50)
+nombres,Zanguou,Dari,Cent (100)
+nombres,Zangu hinka,Dari biyu,Deux cents (200)
+nombres,Zangu gu,Dari biyar,Cinq cents (500)
+nombres,Bundu,Dubu,Mille (1000)
+couleurs,IBi,Baki,Noir
+couleurs,ikoiray,Fari,Blanc
+couleurs,itchirey,Ja,Rouge
+couleurs,bogou,Kore,Vert
+couleurs,boula,Shudi/ Bula,Bleu
+couleurs,say,Masara,Jaune
+couleurs,orange,Lemu,Orange
+couleurs,Viole,Shunayya,Violet
+couleurs,Kafe,Ruwan kasa,Marron
+jours,Atinni,Litinin,Lundi
+jours,Atalaata,Talata,Mardi
+jours,Alarba,Laraba,Mercredi
+jours,Alhamisa,Alhamis,Jeudi
+jours,Alzuma,Juma'a,Vendredi
+jours,Assibti,Asabar,Samedi
+jours,Alhaadi,Lahadi,Dimanche
+jours,Bi,Jiya,Hier
+jours,Hunkuna,Yau,Aujourd'hui
+jours,Suba,Gobe,Demain
+jours,habou,Mako,Semaine
+jours,Handu,Wata,Mois
+jours,Jiiri,Shekara,Annee
+moments,Susubay,Safiya,Matin
+moments,Zaari,Rana,Midi / Journee
+moments,Alasar,Yamma,Soir
+moments,Kini,Dare,Nuit
+corps,Bon,Kai,Tete
+corps,Moyze,Ido,oeil / Yeux
+corps,Nina,Hanci,Nez
+corps,Moyo,Baki,Bouche
+corps,Hanga,Kunne,Oreille
+corps,Kanba,Hannu,Main / Bras
+corps,Ke,kafa,Pied / Jambe
+corps,Gaham,Jiki,Corps
+corps,Goundeh,Ciki,Ventre
+corps,Hingueyze,Hakori,Dent
+corps,Bineyzo,Zuciya,Coeur
+corps,Curi,Jini,Sang
+verbes,Ka,Tafi,Aller
+verbes,Koy,Zo,Venir
+verbes,Goro,Zauna,S'asseoir / Rester
+verbes,Tunu,Tashi,Se lever / Partir
+verbes,ngwan,Ci,Manger
+verbes,Han,Sha,Boire
+verbes,Kaniyan,Barci,Dormir
+verbes,Tuniyan,Tashi,Se reveiller
+verbes,Goyi,Yin aiki,Travailler
+verbes,Bakasiney,Kauna,Aimer
+verbes,Mayan,Ji,Entendre / Ressentir
+verbes,Fatayan,Fita,Sortir
+verbes,Furo,Shiga,Entrer
+verbes,Deymi,Saye,Acheter
+verbes,Nerandiyan,Seydawa,Vendre
+verbes,Salanyan,Yi magana,Parler / Dire
+verbes,Hayan,Tambaya,Demander
+verbes,Noyan,Bashi,Donner
+verbes,tchowyan,Karanta,Lire
+verbes,Hamtuniyan,Rubuta,ecrire
+verbes,Zouray,Gudu,Courir
+verbes,Gayan,Taimako,Aider
+lieux,Koira,Birni,Ville
+lieux,Windi,Gida,Maison / Village
+lieux,Fu,daki,Chambre / Piece
+lieux,Locol,Makaranta,Ecole
+lieux,Hopitalo,Asibiti,Hopital
+lieux,Habu,Kasuwa,Marche
+lieux,Tchingarey,Masallaci,Mosquee
+lieux,Nankiga Foru,Filin wasa,Terrain de jeu
+lieux,Niamey,Niamey,Niamey
+lieux,Dosso,Dosso,Dosso
+lieux,Tahoua,Tahoua,Tahoua
+lieux,Zinder,Zinder,Zinder
+lieux,Maradi,Maradi,Maradi
+lieux,Agadez,Agadez,Agadez
+nourriture,Hawru,Abinci,Nourriture / Repas
+nourriture,Hari,Ruwa,Eau
+nourriture,Kurba Kurba,Tuwo Hathi,Nourriture/ Boule de mil
+nourriture,Foybi,Miyan kuka,Soupe de feuilles de baobab
+nourriture,Buru,Burodi,Pain
+nourriture,Wa,Nono/ madara,Lait
+nourriture,Ham,Nama,Viande
+nourriture,Hamisa,Kifi,Poisson
+nourriture,Damsi,Gujiya,Arachide
+nourriture,Dunguouri,Wake,Haricots
+nourriture,Hayni,Dawa,Mil / Sorgho
+animaux,,Doki,Cheval
+animaux,Haw,Shanu,Vache / Boeuf
+animaux,Fegui,Rago,Mouton
+animaux,Hinkini,Akuya,Chevre
+animaux,Gorwo,Kaza,Poule
+animaux,Hansi,Kare,Chien
+animaux,Musu,Kyanwa/ mousa,Chat
+animaux,Musu Beri,Zaki,Lion
+phrases,Ay gaba,Ina so,Je veux / J'aime
+phrases,Ay maa,Na ji,Je comprends / J'entends
+phrases,Ay man faham,Ban ji ba,Je ne comprends pas
+phrases,koye,tafi/Ki je,Vas-y (ordre)
+phrases,Margueno?,Nawa?,Combien ?
+phrases,Meyno?,Wane ne / Wacce ce?,Qui est-ce ?
+phrases,Mangua?,Ina?,Ou?
+phrases,Watifo?,Yaushe?,Quand ?
+phrases,Ifono?,Me ne?,Quoi ? Qu'est-ce que c'est ?
+phrases,Bani?,Donme?,Pourquoi ?
+phrases,Matine go?,Ta yaya?,Comment ?
+phrases,Ay go koy fuyan,Ina tafiya gida,Je rentre a la maison
+phrases,Ay goma harey,Ina jin yunwa,J'ai faim
+phrases,Ay goma djaw,Ina jin ishirwa,J'ai soif
+phrases,Ay farga,Ina jin gajiya,Je suis fatigue(e)
+phrases,Ay sinda bani,Ina ciwo,Je suis malade
+phrases,Manga Hopitalo?,ina Asibiti ?,Ou est l'hopital ?
+phrases,Mano Habu?,ina Kasuwa ?,Ou est le marche ?
+phrases,Ay go nibande,Ina tare da ke/ka,Je suis avec toi
+phrases,Halasey,Allah ya kiyaye,Que Dieu te protege
+phrases,Ay sinda noru,Ba ni da kudi,Je n'ai pas d'argent
+phrases,Margeno noro?,Nawa ne kudin?,Quel est le prix ?
+phrases,Gor moso,Kai dai zama,Reste tranquille
+phrases,Boro kulu,Kowa,Tout le monde / Chacun
+adjectifs,Ikeyna,karami,Petit
+adjectifs,Iberi,Babba,Grand
+adjectifs,Ihano,Kyau,Beau / Bien
+adjectifs,Hananyan,Fari,Blanc / Propre
+adjectifs,Itagi,Sabo,Nouveau
+adjectifs,Izeno,Tsoho,Vieux / Ancien
+adjectifs,kanou,Lafiya,Bon / En bonne sante
+adjectifs,ilalo,Mugu,Mauvais / Mechant
+adjectifs,ibobo,Yawa,Beaucoup
+adjectifs,ikayna,Kadan,Peu / Un peu
+adjectifs,wasou,Sauri,Vite / Rapide
+adjectifs,mosso,Sannu Sannu,Lentement / Doucement
+vetements,Koiyi,Tufafi/ kaya,Vetements / Habits
+vetements,Bùbù,Riga,Boubou / Chemise longue
+vetements,mudune,Wando,Pantalon
+vetements,Tissus,Zane,Pagne / Tissu
+vetements,Tamu,Takalmi,Chaussures
+vetements,foula,Hula,Chapeau / Couvre-chef
+vetements,koiyi,Jingina,Veste / Manteau
+vetements,worworize,Zobe,Bague / Bijou
+nature,Wayna, Rana, Soleil
+nature,Handu,Wata,Lune
+nature,Cindi cindi,Tauraruwa,Etoiles
+nature,bena hari,Ruwa,Pluie / Eau
+nature,haw,Iska,Vent
+nature,tondi,Duwatsu,Montagne / Rocher
+nature,isa,Kogi,Fleuve / Riviere
+nature,sadji,Daji,Brousse / Forêt
+nature,labu,Sable,Plage / Sable
+nature,labu,kasa,Terre / Sol
+nature,turi gna,Bishiya,Arbre
+nature,soubou,Ciyawa,Herbe / Vegetation
+nature,danji, wuta, feu
+Ecole,laccole,Makaranta,Ecole
+Ecole,lacolize,Dalibai,Eleves / Etudiants
+Ecole,maitre,Malam / Malama,Professeur / Enseignant
+Ecole,tchaw yan,Karatu,Etude / Lecture
+Ecole,Maa zumbu,Rubutu,Ecriture
+Ecole,livro,Littafi,Livre
+Ecole,crayon,Alkalami,Stylo / Crayon
+Ecole,kopto,Takarda,Papier / Feuille
+Ecole,math,Lissafi,Mathematiques
+Ecole,hanyan,Tambaya,Question
+Ecole,touyan,Amsa,Reponse
+Ecole,ecole classe,Aji,Classe / Salle de cours
+Ecole,yonay,Jarrabawa,Examen
+sante,dori,Ciwo,Maladie / Douleur
+sante,loktora,Likita,Medecin / Docteur
+sante,safari,Magani,Medicament
+sante,loktor koira,Asibiti,Hopital
+sante,gaham bani,Lafiya,Sante / Etre en bonne sante
+sante,ay go ma dori,Na yi ciwo,J'ai mal
+sante,Ay bon go dorou,Kaina yana ciwo,J'ai mal a la tete
+sante,Ay gounda go dorou, Cikina yana ciwo,J'ai mal au ventre
+sante,yeri,Amey,Vomir
+sante,Ay farga,Ngaji,Je suis fatigue(e)
+transport,Moto,Mota,Voiture
+transport,porporo,Moto,Moto / Deux-roues
+transport,moto,Bus,Bus / Car
+transport,karoum,Shiga,Monter / Entrer
+transport,zounbou,Sauka,Descendre / Sortir
+transport,koy,Tafi,Aller / Partir
+transport,ka,Zo,Venir / Arriver
+transport,mardge no ?,Nawaneh?,Combien ca coute ?
+transport,Manga no irgo koy?,Ina zuwa?,Ou allons-nous ?
+transport,wasi,Da sauri,Vite / Rapidement
+metiers,Goy,Aiki,Travail
+metiers,maitre,Malam,Enseignant / Professeur
+metiers,loktora,Likita,Medecin
+metiers,loktora,Dokta,Docteur
+metiers,fatooutchi ze,Dillali,Commercant / Marchand
+metiers,avocat,Lauya,Avocat
+metiers,alfari,Manomi,Agriculteur / Paysan
+metiers,Soja,Soja,Soldat / Militaire
+metiers,Polis,Yan sanda,Policier
+metiers,Imam,Limam,Imam / Chef religieux
+religion,Irkoy,Allah,Dieu / Allah
+religion,jingarey,Masallaci,Mosquee
+religion,jingar,Sallah,Priere
+religion,jingar,Yi salla,Prier
+religion,mehaw,Azumi,Jeune / Ramadan
+religion,curana,Kur'ani,Coran
+religion,Annabi,Annabi,Prophete
+religion,Bismilla,Bismillah,Au nom de Dieu
+religion,Alhamdoulilah,Alhamdulillah,Grace a Dieu
+religion,Inshallah,In sha Allah,Si Dieu le veut
+Emotions,bine kaney,Farin ciki,Joie / Bonheur
+Emotions,bien hasaraw,Bakin ciki,Tristesse / Chagrin
+Emotions,couleur,Fushi,Couleure
+Emotions,Hambourkoumey,Tsoro,Peur
+Emotions,Ay go farhan,Ina farin ciki,Je suis heureux/heureuse
+Emotions,Ay bina go sara,Ina bakin ciki,Je suis triste
+Emotions,bakasiney,Soyayya,Amour / Affection
+Emotions,yafa,Hakuri,Patience / Pardon
+tech,sisiro,Wayar hannu,Telephone portable
+tech,Ordinateer,Kwamfuta,Ordinateur
+tech,Internet,Intanet,Internet
+tech,Mesaje,Sako,Message
+tech,Imel,Imel,Email
+tech,Radio,Rediyo,Radio
+tech,Tele,Talabijin,Television
+tech,Foto,Hoto,Photo / Image
+tech,lamba,Lamba,Numero
+tech,Bateri,Batir,Batterie
+connecteurs,da,Da,Et / Avec
+connecteurs,Wala,Ko,Ou
+connecteurs,Amma,Amma,Mais
+connecteurs,zama,Don,Parce que / Pour
+connecteurs,watifo,Lokacin da,Quand / Lorsque
+connecteurs,abon,A kan,Sur / apropos de
+connecteurs,Ra,Cikin,Dans / En
+connecteurs,kala,Zuwa,Vers / Jusqu'a
+connecteurs,za,Daga,De / Depuis
+connecteurs,Kulu,Duka,Tout / Tous
+connecteurs,Kala,Kamar,Comme / Tel que
+connecteurs,Hala,Har,Jusqu'a / Meme
+expressions,abori goumo,Da kyau,Tres bien / Excellent
+expressions,Ay faham,Na gane,J'ai compris
+expressions,mane no nigo koy?,Ka tafi ina?,Tu vas ou?
+expressions,fanda ay,Bari ni,Laisse-moi / Attends
+expressions moso moso,A hankali,Doucement / Avec soin
+expressions,goumo goumo,Dakarfi,Fort / Avec force
+expressions,ibobo,Da yawa,Beaucoup / Tres
+expressions,To,To,D'accord / Bon
+expressions,sonda sonda,Nan da nan,Maintenant / Tout de suite
+expressions,Ni mine batou,Allah ya kiyaye,Que Dieu te garde
